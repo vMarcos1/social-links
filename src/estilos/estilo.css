@@ -44,7 +44,7 @@ body {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background-image: url('../src/images/avatar-jessica.jpeg');
+    background-image: url('../images/avatar-jessica.jpeg');
     background-position: center;
     background-size: cover;
     
